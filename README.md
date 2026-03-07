@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://github.com/oolalabravo?achievement=pull-shark&tab=achievements"  />
+  <img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=oolalabravo&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
