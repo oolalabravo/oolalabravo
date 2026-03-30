@@ -1,4 +1,16 @@
-<h3 align="left">Hi, I'm Bhavya.<br><br>I enjoy building things I imagine and learning through projects. <br><br>I mostly work with Python and like experimenting with automation, APIs, and creative technical ideas.<br><br>Always curious, always building.</h3>
+<h3 align="left">☕ Building weirdly serious systems on dangerous amounts of coffee.
+
+Python developer | FastAPI enjoyer | Automation addict  
+Currently turning sleep deprivation into backend architecture.
+
+I make things that probably didn’t need to be this overengineered:
+- workflow systems
+- automation tools
+- tracking systems
+- random unhinged experiments that somehow work
+
+⚠️ Side effects may include:
+ghost inventory prevention, 3AM commits, and accidental enterprise logic.</h3>
 
 ###
 
