@@ -1,4 +1,4 @@
-<h3 align="left">☕ Building weirdly serious systems on dangerous amounts of coffee.
+<h3 align="left">Building weirdly serious systems on dangerous amounts of coffee.
 
 Python developer | FastAPI enjoyer | Automation addict  
 Currently turning sleep deprivation into backend architecture.
